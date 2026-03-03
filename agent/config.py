@@ -6,8 +6,12 @@ Embeddings: all-MiniLM-L6-v2 via HuggingFace (free, local, low memory)
 
 import os
 from dotenv import load_dotenv
+from pathlib import Path
 
-load_dotenv()
+# Load env files in priority order: testing > local > default
+load_dotenv(dotenv_path=Path('.env.testing'), override=False)
+load_dotenv(dotenv_path=Path('.env.local'), override=False)
+load_dotenv(override=False)  # loads .env if present
 
 # ── Groq / LLM ────────────────────────────────────────────────
 LLM_API_KEY     = os.environ.get("GROQ_API_KEY", "")

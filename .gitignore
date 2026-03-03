@@ -20,6 +20,7 @@ ENV/
 .env
 .env.local
 .env.production
+.env.testing
 
 # ChromaDB (generated at runtime)
 chroma_db/
