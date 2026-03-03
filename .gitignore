@@ -1,32 +1,55 @@
 # Python
 __pycache__/
 *.py[cod]
-*$py.class
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# Virtual environments
 .venv/
-env/
 venv/
+env/
 ENV/
-env.bak/
-venv.bak/
 
 # Environment variables
 .env
-.env.secret
+.env.local
+.env.production
 
-# IDEs
-.vscode/
-.idea/
-
-# OS
-.DS_Store
-Thumbs.db
-
-# Project specific
+# ChromaDB (generated at runtime)
 chroma_db/
-agent.zip
-collegecompass_master_prompt.docx
+
+# Streamlit cache
+.streamlit/
 
 # Logs
 *.log
-data/*.json
-!data/colleges.json # Keeping the main data file
+streamlit_run.log
+
+# macOS
+.DS_Store
+.AppleDouble
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Node (if frontend tooling added)
+node_modules/
+
+# Temporary files
+*.tmp
+*.bak
+tmp/
+
+# Large binary/archive artifacts (not needed in production)
+*.zip
+*.docx
+*.pdf

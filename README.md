@@ -1,83 +1,135 @@
-# 🎓 EduPilot AI
-**Local Indian college admission counsellor powered by RAG + Ollama**
+# EduPilot – AI Powered College Admission Intelligence Platform
 
-## Overview
-EduPilot AI helps Indian engineering students find colleges
-based on JEE rank, budget, state, branch, and category.
-100% local — no API keys, no internet required after setup.
+Personalised admissions guidance for Indian engineering aspirants. Students set filters (exam, rank, budget, state, branch) and chat with an AI counsellor that returns full, ranked college lists with details — not just the “top 3”.
 
-## Prerequisites
-1. Python 3.10+
-2. Ollama installed: https://ollama.com/download
-3. Pull required models:
-   ```
-   ollama pull qwen2:0.5b
-   ollama pull nomic-embed-text
-   ```
+---
+
+## Features
+
+- AI-based college filtering with rich metadata
+- Full filtered results (no truncation to top 3)
+- Smart Agent Chat (LangGraph + LangChain)
+- Dashboard-like insights in a clean Streamlit UI
+- Secure API integration (no keys in frontend, `.env` only)
+- Simple environment variable configuration
+
+---
+
+## Tech Stack
+
+- Frontend: Streamlit (Python)
+- Backend: Python, LangChain, LangGraph, Groq LLM
+- Database: ChromaDB (local persisted vector store)
+
+---
 
 ## Installation
+
 ```bash
-git clone <repo>  &&  cd college_compass
-
-# Create a Python 3.13 virtual environment (required — ChromaDB is not yet Python 3.14 compatible)
-python3.13 -m venv .venv
-source .venv/bin/activate       # Windows: .venv\Scripts\activate
-
+git clone git@github.com:sufianabcy/Admission-Assistance.git
+cd Admission-Assistance
+python -m venv .venv
+source .venv/bin/activate   # Windows: .venv\\Scripts\\activate
 pip install -r requirements.txt
-python data/generate_data.py          # generates colleges.json
-python -m agent.ingest                # embeds into ChromaDB (one-time)
 ```
 
-## Running
+---
+
+## Environment Setup
+
 ```bash
-source .venv/bin/activate             # activate venv (if not already active)
-streamlit run app.py
-# Open browser: http://localhost:8501
+cp .env.example .env
 ```
 
-## Architecture
+Then set your values in `.env`:
+
+- GROQ_API_KEY=your_groq_api_key_here  ← required
+- DATA_PATH=./data/colleges.json       ← optional
+- CHROMA_PATH=./chroma_db              ← optional
+
+Generic placeholders (for portability with common hosts):
+
+- API_KEY=your_api_key_here
+- DATABASE_URL=your_database_url_here
+- SECRET_KEY=your_secret_here
+- PORT=5000
+
+The app validates required variables at startup and stops if `GROQ_API_KEY` is missing.
+
+---
+
+## Run Locally
+
+```bash
+streamlit run app.py
 ```
-Streamlit (app.py)
-  └─▶ LangGraph Agent (agent/graph.py)
-        ├─▶ search_colleges  ──▶ ChromaDB (k=3 cosine)
-        ├─▶ check_eligibility ─▶ ChromaDB (cutoff lookup)
-        └─▶ get_deadlines    ──▶ ChromaDB (cycle data)
-                                     └─▶ Ollama qwen2:0.5b
-```
+
+The app opens at http://localhost:8501
+
+---
+
+## Production Deployment
+
+You can deploy on any platform that supports Python web processes.
+
+- Streamlit Community Cloud
+  - Connect the GitHub repo and select `app.py`.
+  - Add environment secrets (at least `GROQ_API_KEY`).
+
+- Render / Railway
+  - Build: `pip install -r requirements.txt`
+  - Start: `streamlit run app.py --server.port $PORT --server.address 0.0.0.0`
+  - Set env vars in the dashboard (never commit `.env`).
+
+Note: Vercel is optimized for Node runtimes; Render/Railway/Streamlit Cloud are recommended for Streamlit.
+
+---
+
+## Security Notice
+
+- No API keys are committed. `.env` is ignored by Git.
+- Secrets must be provided via environment variables in production.
+- If you previously placed keys in code, move them to `.env` and use `os.environ.get()` access; never expose secrets in the UI.
+
+---
 
 ## Project Structure
+
 ```
-college_compass/
-├── app.py                   # Streamlit entrypoint
-├── requirements.txt
-├── data/
-│   ├── generate_data.py     # generates colleges.json
-│   └── colleges.json        # synthetic 50-college dataset
+Edu-Pilot-main/
+├── app.py                  # Main Streamlit app (routing/UI)
+├── requirements.txt        # Python dependencies
+├── .env.example            # Safe template (no secrets)
 ├── agent/
-│   ├── config.py            # tunable constants
-│   ├── prompts.py           # SYSTEM_PROMPT
-│   ├── graph.py             # LangGraph StateGraph
-│   ├── tools.py             # search_colleges, check_eligibility, get_deadlines
-│   ├── retriever.py         # ChromaDB retriever factory
-│   └── ingest.py            # data ingestion + ensure_ingested()
-└── ui/
-    ├── sidebar.py           # filter widgets
-    ├── chat.py              # chat renderer + streaming
-    └── cards.py             # college recommendation cards
+│   ├── config.py           # Env loading + validation
+│   ├── graph.py            # LangGraph agent (RAG + chat)
+│   ├── ingest.py           # JSON → ChromaDB ingestion (idempotent)
+│   ├── prompts.py          # System prompt
+│   └── retriever.py        # Chroma retriever with filters
+├── ui/
+│   ├── chat.py             # Chat components
+│   └── sidebar.py          # Filter sidebar
+└── data/
+    ├── colleges.json       # Sample dataset (auto-generated if missing)
+    └── generate_data.py    # Dataset generator
 ```
 
-## FAQ
-```
-Q: 'Connection refused :11434' → Make sure Ollama is running: ollama serve
-Q: 'Collection not found'      → Run python -m agent.ingest first
-Q: Slow responses              → qwen2:0.5b is CPU — 15-45s is normal
-Q: Empty chat responses        → Lower SCORE_THRESHOLD in config.py (try 0.5)
-Q: Duplicate colleges after re-ingest → ingest.py is idempotent — safe to re-run
+---
+
+## Maintenance
+
+- Rebuild vector store after dataset changes:
+
+```bash
+python -c "from agent.ingest import ingest; ingest()"
 ```
 
-## Sample Queries
-- `Show me CSE colleges under ₹2L in Tamil Nadu`
-- `Can I get NIT Trichy with JEE rank 45000 OBC?`
-- `When does VIT Vellore application close?`
-- `List IITs for AI/ML with JEE Advanced`
-- `Cheapest government colleges in Maharashtra for Mech`
+- Lint/syntax check quickly:
+
+```bash
+python -m py_compile app.py agent/*.py ui/*.py
+```
+
+---
+
+Made with ❤️ to help students make confident college choices.

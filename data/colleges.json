@@ -1,0 +1,3509 @@
+[
+  {
+    "name": "IIT Madras",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "nirf_rank": 1,
+    "type": "IIT",
+    "tuition_fee": 100000,
+    "avg_package": 20.5,
+    "highest_package": 85,
+    "exams": [
+      "JEE Advanced"
+    ],
+    "mode_of_admission": [
+      "JEE Advanced"
+    ],
+    "status": "Closed",
+    "branches": [
+      "CSE",
+      "ECE",
+      "Mech",
+      "Civil",
+      "EE",
+      "Chemical",
+      "AI/ML",
+      "IT",
+      "Biotech"
+    ],
+    "cutoffs": {
+      "JEE Advanced": {
+        "General": {
+          "All_India": 500,
+          "Home_State": 650
+        },
+        "OBC": {
+          "All_India": 900,
+          "Home_State": 1100
+        },
+        "EWS": {
+          "All_India": 800,
+          "Home_State": 1000
+        },
+        "SC": {
+          "All_India": 1750,
+          "Home_State": 2000
+        },
+        "ST": {
+          "All_India": 2500,
+          "Home_State": 3000
+        }
+      }
+    },
+    "scholarships": [
+      {
+        "percent": 100,
+        "rank_below": 600000
+      },
+      {
+        "percent": 50,
+        "rank_below": 1500000
+      },
+      {
+        "percent": 25,
+        "rank_below": 2400000
+      }
+    ],
+    "description": "IIT Madras is a prestigious IIT institution ranked NIRF #1 in Chennai, Tamil Nadu. Annual tuition is ₹100,000. Average placement package is 20.5 LPA. Admission status: Closed. Application deadline: July 2025.",
+    "deadline": "JoSAA 2025 counselling (June–July 2025)"
+  },
+  {
+    "name": "IIT Delhi",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "nirf_rank": 2,
+    "type": "IIT",
+    "tuition_fee": 100000,
+    "avg_package": 22.0,
+    "highest_package": 90,
+    "exams": [
+      "JEE Advanced"
+    ],
+    "mode_of_admission": [
+      "JEE Advanced"
+    ],
+    "status": "Closed",
+    "branches": [
+      "CSE",
+      "ECE",
+      "Mech",
+      "Civil",
+      "EE",
+      "Chemical",
+      "AI/ML",
+      "IT",
+      "Biotech"
+    ],
+    "cutoffs": {
+      "JEE Advanced": {
+        "General": {
+          "All_India": 500,
+          "Home_State": 650
+        },
+        "OBC": {
+          "All_India": 900,
+          "Home_State": 1100
+        },
+        "EWS": {
+          "All_India": 800,
+          "Home_State": 1000
+        },
+        "SC": {
+          "All_India": 1750,
+          "Home_State": 2000
+        },
+        "ST": {
+          "All_India": 2500,
+          "Home_State": 3000
+        }
+      }
+    },
+    "scholarships": [
+      {
+        "percent": 100,
+        "rank_below": 300000
+      },
+      {
+        "percent": 50,
+        "rank_below": 750000
+      },
+      {
+        "percent": 25,
+        "rank_below": 1200000
+      }
+    ],
+    "description": "IIT Delhi is a prestigious IIT institution ranked NIRF #2 in New Delhi, Delhi. Annual tuition is ₹100,000. Average placement package is 22.0 LPA. Admission status: Closed. Application deadline: July 2025.",
+    "deadline": "JoSAA 2025 counselling (June–July 2025)"
+  },
+  {
+    "name": "IIT Bombay",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "nirf_rank": 3,
+    "type": "IIT",
+    "tuition_fee": 100000,
+    "avg_package": 21.0,
+    "highest_package": 80,
+    "exams": [
+      "JEE Advanced"
+    ],
+    "mode_of_admission": [
+      "JEE Advanced"
+    ],
+    "status": "Closed",
+    "branches": [
+      "CSE",
+      "ECE",
+      "Mech",
+      "Civil",
+      "EE",
+      "Chemical",
+      "AI/ML",
+      "IT",
+      "Biotech"
+    ],
+    "cutoffs": {
+      "JEE Advanced": {
+        "General": {
+          "All_India": 640,
+          "Home_State": 832
+        },
+        "OBC": {
+          "All_India": 1152,
+          "Home_State": 1408
+        },
+        "EWS": {
+          "All_India": 1024,
+          "Home_State": 1280
+        },
+        "SC": {
+          "All_India": 2240,
+          "Home_State": 2560
+        },
+        "ST": {
+          "All_India": 3200,
+          "Home_State": 3840
+        }
+      }
+    },
+    "scholarships": [
+      {
+        "percent": 100,
+        "rank_below": 200000
+      },
+      {
+        "percent": 50,
+        "rank_below": 500000
+      },
+      {
+        "percent": 25,
+        "rank_below": 800000
+      }
+    ],
+    "description": "IIT Bombay is a prestigious IIT institution ranked NIRF #3 in Mumbai, Maharashtra. Annual tuition is ₹100,000. Average placement package is 21.0 LPA. Admission status: Closed. Application deadline: July 2025.",
+    "deadline": "JoSAA 2025 counselling (June–July 2025)"
+  },
+  {
+    "name": "IIT Kanpur",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "nirf_rank": 4,
+    "type": "IIT",
+    "tuition_fee": 100000,
+    "avg_package": 19.0,
+    "highest_package": 70,
+    "exams": [
+      "JEE Advanced"
+    ],
+    "mode_of_admission": [
+      "JEE Advanced"
+    ],
+    "status": "Closed",
+    "branches": [
+      "CSE",
+      "ECE",
+      "Mech",
+      "Civil",
+      "EE",
+      "Chemical",
+      "AI/ML",
+      "IT",
+      "Biotech"
+    ],
+    "cutoffs": {
+      "JEE Advanced": {
+        "General": {
+          "All_India": 860,
+          "Home_State": 1118
+        },
+        "OBC": {
+          "All_India": 1548,
+          "Home_State": 1892
+        },
+        "EWS": {
+          "All_India": 1376,
+          "Home_State": 1720
+        },
+        "SC": {
+          "All_India": 3010,
+          "Home_State": 3440
+        },
+        "ST": {
+          "All_India": 4300,
+          "Home_State": 5160
+        }
+      }
+    },
+    "scholarships": [
+      {
+        "percent": 100,
+        "rank_below": 150000
+      },
+      {
+        "percent": 50,
+        "rank_below": 375000
+      },
+      {
+        "percent": 25,
+        "rank_below": 600000
+      }
+    ],
+    "description": "IIT Kanpur is a prestigious IIT institution ranked NIRF #4 in Kanpur, Uttar Pradesh. Annual tuition is ₹100,000. Average placement package is 19.0 LPA. Admission status: Closed. Application deadline: July 2025.",
+    "deadline": "JoSAA 2025 counselling (June–July 2025)"
+  },
+  {
+    "name": "IIT Kharagpur",
+    "city": "Kharagpur",
+    "state": "West Bengal",
+    "nirf_rank": 5,
+    "type": "IIT",
+    "tuition_fee": 110000,
+    "avg_package": 18.5,
+    "highest_package": 65,
+    "exams": [
+      "JEE Advanced"
+    ],
+    "mode_of_admission": [
+      "JEE Advanced"
+    ],
+    "status": "Closed",
+    "branches": [
+      "CSE",
+      "ECE",
+      "Mech",
+      "Civil",
+      "EE",
+      "Chemical",
+      "AI/ML",
+      "IT",
+      "Biotech"
+    ],
+    "cutoffs": {
+      "JEE Advanced": {
+        "General": {
+          "All_India": 1080,
+          "Home_State": 1404
+        },
+        "OBC": {
+          "All_India": 1944,
+          "Home_State": 2376
+        },
+        "EWS": {
+          "All_India": 1728,
+          "Home_State": 2160
+        },
+        "SC": {
+          "All_India": 3780,
+          "Home_State": 4320
+        },
+        "ST": {
+          "All_India": 5400,
+          "Home_State": 6480
+        }
+      }
+    },
+    "scholarships": [
+      {
+        "percent": 100,
+        "rank_below": 120000
+      },
+      {
+        "percent": 50,
+        "rank_below": 300000
+      },
+      {
+        "percent": 25,
+        "rank_below": 480000
+      }
+    ],
+    "description": "IIT Kharagpur is a prestigious IIT institution ranked NIRF #5 in Kharagpur, West Bengal. Annual tuition is ₹110,000. Average placement package is 18.5 LPA. Admission status: Closed. Application deadline: July 2025.",
+    "deadline": "JoSAA 2025 counselling (June–July 2025)"
+  },
+  {
+    "name": "IIT Roorkee",
+    "city": "Roorkee",
+    "state": "Uttarakhand",
+    "nirf_rank": 6,
+    "type": "IIT",
+    "tuition_fee": 110000,
+    "avg_package": 17.0,
+    "highest_package": 60,
+    "exams": [
+      "JEE Advanced"
+    ],
+    "mode_of_admission": [
+      "JEE Advanced"
+    ],
+    "status": "Closed",
+    "branches": [
+      "CSE",
+      "ECE",
+      "Mech",
+      "Civil",
+      "EE",
+      "Chemical",
+      "AI/ML",
+      "IT",
+      "Biotech"
+    ],
+    "cutoffs": {
+      "JEE Advanced": {
+        "General": {
+          "All_India": 1300,
+          "Home_State": 1690
+        },
+        "OBC": {
+          "All_India": 2340,
+          "Home_State": 2860
+        },
+        "EWS": {
+          "All_India": 2080,
+          "Home_State": 2600
+        },
+        "SC": {
+          "All_India": 4550,
+          "Home_State": 5200
+        },
+        "ST": {
+          "All_India": 6500,
+          "Home_State": 7800
+        }
+      }
+    },
+    "scholarships": [
+      {
+        "percent": 100,
+        "rank_below": 100000
+      },
+      {
+        "percent": 50,
+        "rank_below": 250000
+      },
+      {
+        "percent": 25,
+        "rank_below": 400000
+      }
+    ],
+    "description": "IIT Roorkee is a prestigious IIT institution ranked NIRF #6 in Roorkee, Uttarakhand. Annual tuition is ₹110,000. Average placement package is 17.0 LPA. Admission status: Closed. Application deadline: July 2025.",
+    "deadline": "JoSAA 2025 counselling (June–July 2025)"
+  },
+  {
+    "name": "IIT Hyderabad",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "nirf_rank": 7,
+    "type": "IIT",
+    "tuition_fee": 112000,
+    "avg_package": 15.0,
+    "highest_package": 50,
+    "exams": [
+      "JEE Advanced"
+    ],
+    "mode_of_admission": [
+      "JEE Advanced"
+    ],
+    "status": "Upcoming",
+    "branches": [
+      "CSE",
+      "ECE",
+      "Mech",
+      "Civil",
+      "EE",
+      "Chemical",
+      "AI/ML",
+      "IT",
+      "Biotech"
+    ],
+    "cutoffs": {
+      "JEE Advanced": {
+        "General": {
+          "All_India": 1740,
+          "Home_State": 2262
+        },
+        "OBC": {
+          "All_India": 3132,
+          "Home_State": 3828
+        },
+        "EWS": {
+          "All_India": 2784,
+          "Home_State": 3480
+        },
+        "SC": {
+          "All_India": 6090,
+          "Home_State": 6960
+        },
+        "ST": {
+          "All_India": 8700,
+          "Home_State": 10440
+        }
+      }
+    },
+    "scholarships": [
+      {
+        "percent": 100,
+        "rank_below": 75000
+      },
+      {
+        "percent": 50,
+        "rank_below": 187500
+      },
+      {
+        "percent": 25,
+        "rank_below": 300000
+      }
+    ],
+    "description": "IIT Hyderabad is a prestigious IIT institution ranked NIRF #7 in Hyderabad, Telangana. Annual tuition is ₹112,000. Average placement package is 15.0 LPA. Admission status: Upcoming. Application deadline: July 2025.",
+    "deadline": "JoSAA 2025 counselling (June–July 2025)"
+  },
+  {
+    "name": "IIT Guwahati",
+    "city": "Guwahati",
+    "state": "Assam",
+    "nirf_rank": 8,
+    "type": "IIT",
+    "tuition_fee": 100000,
+    "avg_package": 15.5,
+    "highest_package": 55,
+    "exams": [
+      "JEE Advanced"
+    ],
+    "mode_of_admission": [
+      "JEE Advanced"
+    ],
+    "status": "Closed",
+    "branches": [
+      "CSE",
+      "ECE",
+      "Mech",
+      "Civil",
+      "EE",
+      "Chemical",
+      "AI/ML",
+      "IT",
+      "Biotech"
+    ],
+    "cutoffs": {
+      "JEE Advanced": {
+        "General": {
+          "All_India": 1520,
+          "Home_State": 1976
+        },
+        "OBC": {
+          "All_India": 2736,
+          "Home_State": 3344
+        },
+        "EWS": {
+          "All_India": 2432,
+          "Home_State": 3040
+        },
+        "SC": {
+          "All_India": 5320,
+          "Home_State": 6080
+        },
+        "ST": {
+          "All_India": 7600,
+          "Home_State": 9120
+        }
+      }
+    },
+    "scholarships": [
+      {
+        "percent": 100,
+        "rank_below": 85714
+      },
+      {
+        "percent": 50,
+        "rank_below": 214285
+      },
+      {
+        "percent": 25,
+        "rank_below": 342856
+      }
+    ],
+    "description": "IIT Guwahati is a prestigious IIT institution ranked NIRF #8 in Guwahati, Assam. Annual tuition is ₹100,000. Average placement package is 15.5 LPA. Admission status: Closed. Application deadline: July 2025.",
+    "deadline": "JoSAA 2025 counselling (June–July 2025)"
+  },
+  {
+    "name": "NIT Trichy",
+    "city": "Tiruchirappalli",
+    "state": "Tamil Nadu",
+    "nirf_rank": 9,
+    "type": "NIT",
+    "tuition_fee": 150000,
+    "avg_package": 12.0,
+    "highest_package": 40,
+    "exams": [
+      "JEE Main"
+    ],
+    "mode_of_admission": [
+      "JEE Main"
+    ],
+    "status": "Open",
+    "branches": [
+      "CSE",
+      "ECE",
+      "Mech",
+      "Civil",
+      "EE",
+      "Chemical",
+      "AI/ML",
+      "IT",
+      "Biotech"
+    ],
+    "cutoffs": {
+      "JEE Main": {
+        "General": {
+          "All_India": 5000,
+          "Home_State": 6500
+        },
+        "OBC": {
+          "All_India": 9000,
+          "Home_State": 11000
+        },
+        "EWS": {
+          "All_India": 8000,
+          "Home_State": 10000
+        },
+        "SC": {
+          "All_India": 17500,
+          "Home_State": 20000
+        },
+        "ST": {
+          "All_India": 25000,
+          "Home_State": 30000
+        }
+      }
+    },
+    "scholarships": [
+      {
+        "percent": 100,
+        "rank_below": 66666
+      },
+      {
+        "percent": 50,
+        "rank_below": 166666
+      },
+      {
+        "percent": 25,
+        "rank_below": 266666
+      }
+    ],
+    "description": "NIT Trichy is a prestigious NIT institution ranked NIRF #9 in Tiruchirappalli, Tamil Nadu. Annual tuition is ₹150,000. Average placement package is 12.0 LPA. Admission status: Open. Application deadline: July 2025.",
+    "deadline": "JoSAA 2025 counselling (June–July 2025)"
+  },
+  {
+    "name": "IIT BHU Varanasi",
+    "city": "Varanasi",
+    "state": "Uttar Pradesh",
+    "nirf_rank": 10,
+    "type": "IIT",
+    "tuition_fee": 105000,
+    "avg_package": 16.0,
+    "highest_package": 58,
+    "exams": [
+      "JEE Advanced"
+    ],
+    "mode_of_admission": [
+      "JEE Advanced"
+    ],
+    "status": "Closed",
+    "branches": [
+      "CSE",
+      "ECE",
+      "Mech",
+      "Civil",
+      "EE",
+      "Chemical",
+      "AI/ML",
+      "IT",
+      "Biotech"
+    ],
+    "cutoffs": {
+      "JEE Advanced": {
+        "General": {
+          "All_India": 2000,
+          "Home_State": 2600
+        },
+        "OBC": {
+          "All_India": 3600,
+          "Home_State": 4400
+        },
+        "EWS": {
+          "All_India": 3200,
+          "Home_State": 4000
+        },
+        "SC": {
+          "All_India": 7000,
+          "Home_State": 8000
+        },
+        "ST": {
+          "All_India": 10000,
+          "Home_State": 12000
+        }
+      }
+    },
+    "scholarships": [
+      {
+        "percent": 100,
+        "rank_below": 90000
+      },
+      {
+        "percent": 50,
+        "rank_below": 225000
+      },
+      {
+        "percent": 25,
+        "rank_below": 360000
+      }
+    ],
+    "description": "IIT BHU Varanasi is a prestigious IIT institution ranked NIRF #10 in Varanasi, Uttar Pradesh. Annual tuition is ₹105,000. Average placement package is 16.0 LPA. Admission status: Closed. Application deadline: July 2025.",
+    "deadline": "JoSAA 2025 counselling (June–July 2025)"
+  },
+  {
+    "name": "BITS Pilani",
+    "city": "Pilani",
+    "state": "Rajasthan",
+    "nirf_rank": 11,
+    "type": "Deemed",
+    "tuition_fee": 215000,
+    "avg_package": 15.0,
+    "highest_package": 60,
+    "exams": [
+      "BITSAT"
+    ],
+    "mode_of_admission": [
+      "BITSAT"
+    ],
+    "status": "Open",
+    "deadline": "2025-05-15",
+    "branches": [
+      "Civil",
+      "IT",
+      "EE",
+      "Mech",
+      "CSE",
+      "ECE",
+      "Chemical"
+    ],
+    "cutoffs": {
+      "BITSAT": {
+        "General": {
+          "All_India": 33000,
+          "Home_State": 42900
+        },
+        "OBC": {
+          "All_India": 59400,
+          "Home_State": 72600
+        },
+        "EWS": {
+          "All_India": 52800,
+          "Home_State": 66000
+        },
+        "SC": {
+          "All_India": 115500,
+          "Home_State": 132000
+        },
+        "ST": {
+          "All_India": 165000,
+          "Home_State": 198000
+        }
+      }
+    },
+    "scholarships": [
+      {
+        "percent": 100,
+        "rank_below": 22222
+      },
+      {
+        "percent": 50,
+        "rank_below": 55555
+      },
+      {
+        "percent": 25,
+        "rank_below": 88888
+      }
+    ],
+    "description": "BITS Pilani is a prestigious Deemed institution ranked NIRF #11 in Pilani, Rajasthan. Annual tuition is ₹215,000. Average placement package is 15.0 LPA. Admission status: Open. Application deadline: 2025-05-15."
+  },
+  {
+    "name": "IIT Indore",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "nirf_rank": 12,
+    "type": "IIT",
+    "tuition_fee": 115000,
+    "avg_package": 14.0,
+    "highest_package": 45,
+    "exams": [
+      "JEE Advanced"
+    ],
+    "mode_of_admission": [
+      "JEE Advanced"
+    ],
+    "status": "Upcoming",
+    "branches": [
+      "CSE",
+      "ECE",
+      "Mech",
+      "Civil",
+      "EE",
+      "Chemical",
+      "AI/ML",
+      "IT",
+      "Biotech"
+    ],
+    "cutoffs": {
+      "JEE Advanced": {
+        "General": {
+          "All_India": 2840,
+          "Home_State": 3692
+        },
+        "OBC": {
+          "All_India": 5112,
+          "Home_State": 6248
+        },
+        "EWS": {
+          "All_India": 4544,
+          "Home_State": 5680
+        },
+        "SC": {
+          "All_India": 9940,
+          "Home_State": 11360
+        },
+        "ST": {
+          "All_India": 14200,
+          "Home_State": 17040
+        }
+      }
+    },
+    "scholarships": [
+      {
+        "percent": 100,
+        "rank_below": 46153
+      },
+      {
+        "percent": 50,
+        "rank_below": 115384
+      },
+      {
+        "percent": 25,
+        "rank_below": 184615
+      }
+    ],
+    "description": "IIT Indore is a prestigious IIT institution ranked NIRF #12 in Indore, Madhya Pradesh. Annual tuition is ₹115,000. Average placement package is 14.0 LPA. Admission status: Upcoming. Application deadline: July 2025.",
+    "deadline": "JoSAA 2025 counselling (June–July 2025)"
+  },
+  {
+    "name": "NIT Rourkela",
+    "city": "Rourkela",
+    "state": "Odisha",
+    "nirf_rank": 13,
+    "type": "NIT",
+    "tuition_fee": 150000,
+    "avg_package": 10.0,
+    "highest_package": 30,
+    "exams": [
+      "JEE Main"
+    ],
+    "mode_of_admission": [
+      "JEE Main"
+    ],
+    "status": "Open",
+    "branches": [
+      "CSE",
+      "ECE",
+      "Mech",
+      "Civil",
+      "EE",
+      "Chemical",
+      "AI/ML",
+      "IT",
+      "Biotech"
+    ],
+    "cutoffs": {
+      "JEE Main": {
+        "General": {
+          "All_India": 27400,
+          "Home_State": 35620
+        },
+        "OBC": {
+          "All_India": 49320,
+          "Home_State": 60280
+        },
+        "EWS": {
+          "All_India": 43840,
+          "Home_State": 54800
+        },
+        "SC": {
+          "All_India": 95900,
+          "Home_State": 109600
+        },
+        "ST": {
+          "All_India": 137000,
+          "Home_State": 164400
+        }
+      }
+    },
+    "scholarships": [
+      {
+        "percent": 100,
+        "rank_below": 35294
+      },
+      {
+        "percent": 50,
+        "rank_below": 88235
+      },
+      {
+        "percent": 25,
+        "rank_below": 141176
+      }
+    ],
+    "description": "NIT Rourkela is a prestigious NIT institution ranked NIRF #13 in Rourkela, Odisha. Annual tuition is ₹150,000. Average placement package is 10.0 LPA. Admission status: Open. Application deadline: July 2025.",
+    "deadline": "JoSAA 2025 counselling (June–July 2025)"
+  },
+  {
+    "name": "SRM Institute of Science and Technology",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "nirf_rank": 14,
+    "type": "Private",
+    "tuition_fee": 225000,
+    "avg_package": 6.5,
+    "highest_package": 38,
+    "exams": [
+      "SRMJEEE",
+      "JEE Main"
+    ],
+    "mode_of_admission": [
+      "SRMJEEE",
+      "JEE Main",
+      "12th Boards"
+    ],
+    "status": "Open",
+    "deadline": "2025-03-31",
+    "branches": [
+      "Biotech",
+      "Civil",
+      "Chemical",
+      "AI/ML"
+    ],
+    "cutoffs": {
+      "SRMJEEE": {
+        "General": {
+          "All_India": 44000,
+          "Home_State": 57200
+        },
+        "OBC": {
+          "All_India": 79200,
+          "Home_State": 96800
+        },
+        "EWS": {
+          "All_India": 70400,
+          "Home_State": 88000
+        },
+        "SC": {
+          "All_India": 154000,
+          "Home_State": 176000
+        },
+        "ST": {
+          "All_India": 220000,
+          "Home_State": 264000
+        }
+      },
+      "JEE Main": {
+        "General": {
+          "All_India": 44000,
+          "Home_State": 57200
+        },
+        "OBC": {
+          "All_India": 79200,
+          "Home_State": 96800
+        },
+        "EWS": {
+          "All_India": 70400,
+          "Home_State": 88000
+        },
+        "SC": {
+          "All_India": 154000,
+          "Home_State": 176000
+        },
+        "ST": {
+          "All_India": 220000,
+          "Home_State": 264000
+        }
+      }
+    },
+    "scholarships": [
+      {
+        "percent": 100,
+        "rank_below": 18750
+      },
+      {
+        "percent": 50,
+        "rank_below": 46875
+      },
+      {
+        "percent": 25,
+        "rank_below": 75000
+      }
+    ],
+    "description": "SRM Institute of Science and Technology is a prestigious Private institution ranked NIRF #14 in Chennai, Tamil Nadu. Annual tuition is ₹225,000. Average placement package is 6.5 LPA. Admission status: Open. Application deadline: 2025-03-31."
+  },
+  {
+    "name": "IIT ISM Dhanbad",
+    "city": "Dhanbad",
+    "state": "Jharkhand",
+    "nirf_rank": 15,
+    "type": "IIT",
+    "tuition_fee": 108000,
+    "avg_package": 14.5,
+    "highest_package": 48,
+    "exams": [
+      "JEE Advanced"
+    ],
+    "mode_of_admission": [
+      "JEE Advanced"
+    ],
+    "status": "Closed",
+    "branches": [
+      "CSE",
+      "ECE",
+      "Mech",
+      "Civil",
+      "EE",
+      "Chemical",
+      "AI/ML",
+      "Mining"
+    ],
+    "cutoffs": {
+      "JEE Advanced": {
+        "General": {
+          "All_India": 3500,
+          "Home_State": 4550
+        },
+        "OBC": {
+          "All_India": 6300,
+          "Home_State": 7700
+        },
+        "EWS": {
+          "All_India": 5600,
+          "Home_State": 7000
+        },
+        "SC": {
+          "All_India": 12250,
+          "Home_State": 14000
+        },
+        "ST": {
+          "All_India": 17500,
+          "Home_State": 21000
+        }
+      }
+    },
+    "scholarships": [
+      {
+        "percent": 100,
+        "rank_below": 50000
+      },
+      {
+        "percent": 50,
+        "rank_below": 125000
+      },
+      {
+        "percent": 25,
+        "rank_below": 200000
+      }
+    ],
+    "description": "IIT ISM Dhanbad is a prestigious IIT institution ranked NIRF #15 in Dhanbad, Jharkhand. Annual tuition is ₹108,000. Average placement package is 14.5 LPA. Admission status: Closed. Application deadline: July 2025.",
+    "deadline": "JoSAA 2025 counselling (June–July 2025)"
+  },
+  {
+    "name": "VIT Vellore",
+    "city": "Vellore",
+    "state": "Tamil Nadu",
+    "nirf_rank": 16,
+    "type": "Private",
+    "tuition_fee": 195000,
+    "avg_package": 7.8,
+    "highest_package": 43,
+    "exams": [
+      "VITEEE"
+    ],
+    "mode_of_admission": [
+      "VITEEE",
+      "12th Boards"
+    ],
+    "status": "Open",
+    "deadline": "2025-04-10",
+    "branches": [
+      "CSE",
+      "EE",
+      "ECE",
+      "AI/ML"
+    ],
+    "cutoffs": {
+      "VITEEE": {
+        "General": {
+          "All_India": 10000,
+          "Home_State": 13000
+        },
+        "OBC": {
+          "All_India": 18000,
+          "Home_State": 22000
+        },
+        "EWS": {
+          "All_India": 16000,
+          "Home_State": 20000
+        },
+        "SC": {
+          "All_India": 35000,
+          "Home_State": 40000
+        },
+        "ST": {
+          "All_India": 50000,
+          "Home_State": 60000
+        }
+      }
+    },
+    "scholarships": [
+      {
+        "percent": 100,
+        "rank_below": 40000
+      },
+      {
+        "percent": 50,
+        "rank_below": 100000
+      },
+      {
+        "percent": 25,
+        "rank_below": 160000
+      }
+    ],
+    "description": "VIT Vellore is a prestigious Private institution ranked NIRF #16 in Vellore, Tamil Nadu. Annual tuition is ₹195,000. Average placement package is 7.8 LPA. Admission status: Open. Application deadline: 2025-04-10."
+  },
+  {
+    "name": "NIT Surathkal",
+    "city": "Surathkal",
+    "state": "Karnataka",
+    "nirf_rank": 17,
+    "type": "NIT",
+    "tuition_fee": 148000,
+    "avg_package": 11.0,
+    "highest_package": 36,
+    "exams": [
+      "JEE Main"
+    ],
+    "mode_of_admission": [
+      "JEE Main"
+    ],
+    "status": "Open",
+    "branches": [
+      "CSE",
+      "ECE",
+      "Mech",
+      "Civil",
+      "EE",
+      "Chemical",
+      "AI/ML",
+      "IT",
+      "Biotech"
+    ],
+    "cutoffs": {
+      "JEE Main": {
+        "General": {
+          "All_India": 10600,
+          "Home_State": 13780
+        },
+        "OBC": {
+          "All_India": 19080,
+          "Home_State": 23320
+        },
+        "EWS": {
+          "All_India": 16960,
+          "Home_State": 21200
+        },
+        "SC": {
+          "All_India": 37100,
+          "Home_State": 42400
+        },
+        "ST": {
+          "All_India": 53000,
+          "Home_State": 63600
+        }
+      }
+    },
+    "scholarships": [
+      {
+        "percent": 100,
+        "rank_below": 54545
+      },
+      {
+        "percent": 50,
+        "rank_below": 136363
+      },
+      {
+        "percent": 25,
+        "rank_below": 218181
+      }
+    ],
+    "description": "NIT Surathkal is a prestigious NIT institution ranked NIRF #17 in Surathkal, Karnataka. Annual tuition is ₹148,000. Average placement package is 11.0 LPA. Admission status: Open. Application deadline: July 2025.",
+    "deadline": "JoSAA 2025 counselling (June–July 2025)"
+  },
+  {
+    "name": "Jadavpur University",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "nirf_rank": 18,
+    "type": "State",
+    "tuition_fee": 8000,
+    "avg_package": 9.0,
+    "highest_package": 35,
+    "exams": [
+      "WBJEE",
+      "JEE Main"
+    ],
+    "mode_of_admission": [
+      "WBJEE",
+      "JEE Main"
+    ],
+    "status": "Open",
+    "branches": [
+      "CSE",
+      "ECE",
+      "Mech",
+      "Civil",
+      "EE",
+      "Chemical",
+      "IT",
+      "Production"
+    ],
+    "cutoffs": {
+      "WBJEE": {
+        "General": {
+          "All_India": 12000,
+          "Home_State": 15600
+        },
+        "OBC": {
+          "All_India": 21600,
+          "Home_State": 26400
+        },
+        "EWS": {
+          "All_India": 19200,
+          "Home_State": 24000
+        },
+        "SC": {
+          "All_India": 42000,
+          "Home_State": 48000
+        },
+        "ST": {
+          "All_India": 60000,
+          "Home_State": 72000
+        }
+      }
+    },
+    "scholarships": [
+      {
+        "percent": 100,
+        "rank_below": 80000
+      },
+      {
+        "percent": 50,
+        "rank_below": 200000
+      },
+      {
+        "percent": 25,
+        "rank_below": 320000
+      }
+    ],
+    "description": "Jadavpur University is a prestigious State institution ranked NIRF #18 in Kolkata, West Bengal. Annual tuition is ₹8,000. Average placement package is 9.0 LPA. Admission status: Open. Application deadline: July 2025.",
+    "deadline": "WBJEE 2025 counselling (June–July 2025)"
+  },
+  {
+    "name": "IIT Patna",
+    "city": "Patna",
+    "state": "Bihar",
+    "nirf_rank": 19,
+    "type": "IIT",
+    "tuition_fee": 108000,
+    "avg_package": 13.5,
+    "highest_package": 46,
+    "exams": [
+      "JEE Advanced"
+    ],
+    "mode_of_admission": [
+      "JEE Advanced"
+    ],
+    "status": "Closed",
+    "branches": [
+      "CSE",
+      "ECE",
+      "Mech",
+      "Civil",
+      "EE",
+      "Chemical",
+      "AI/ML"
+    ],
+    "cutoffs": {
+      "JEE Advanced": {
+        "General": {
+          "All_India": 4200,
+          "Home_State": 5460
+        },
+        "OBC": {
+          "All_India": 7560,
+          "Home_State": 9240
+        },
+        "EWS": {
+          "All_India": 6720,
+          "Home_State": 8400
+        },
+        "SC": {
+          "All_India": 14700,
+          "Home_State": 16800
+        },
+        "ST": {
+          "All_India": 21000,
+          "Home_State": 25200
+        }
+      }
+    },
+    "scholarships": [
+      {
+        "percent": 100,
+        "rank_below": 45000
+      },
+      {
+        "percent": 50,
+        "rank_below": 112500
+      },
+      {
+        "percent": 25,
+        "rank_below": 180000
+      }
+    ],
+    "description": "IIT Patna is a prestigious IIT institution ranked NIRF #19 in Patna, Bihar. Annual tuition is ₹108,000. Average placement package is 13.5 LPA. Admission status: Closed. Application deadline: July 2025.",
+    "deadline": "JoSAA 2025 counselling (June–July 2025)"
+  },
+  {
+    "name": "Anna University",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "nirf_rank": 20,
+    "type": "State",
+    "tuition_fee": 25000,
+    "avg_package": 6.0,
+    "highest_package": 28,
+    "exams": [
+      "TNEA"
+    ],
+    "mode_of_admission": [
+      "TNEA",
+      "12th Boards"
+    ],
+    "status": "Open",
+    "branches": [
+      "CSE",
+      "ECE",
+      "Mech",
+      "Civil",
+      "EE",
+      "Chemical",
+      "IT",
+      "AI/ML",
+      "Biotech"
+    ],
+    "cutoffs": {
+      "TNEA": {
+        "General": {
+          "All_India": 25000,
+          "Home_State": 32500
+        },
+        "OBC": {
+          "All_India": 45000,
+          "Home_State": 55000
+        },
+        "EWS": {
+          "All_India": 40000,
+          "Home_State": 50000
+        },
+        "SC": {
+          "All_India": 87500,
+          "Home_State": 100000
+        },
+        "ST": {
+          "All_India": 125000,
+          "Home_State": 150000
+        }
+      }
+    },
+    "scholarships": [
+      {
+        "percent": 100,
+        "rank_below": 50000
+      },
+      {
+        "percent": 50,
+        "rank_below": 125000
+      },
+      {
+        "percent": 25,
+        "rank_below": 200000
+      }
+    ],
+    "description": "Anna University is a prestigious State institution ranked NIRF #20 in Chennai, Tamil Nadu. Annual tuition is ₹25,000. Average placement package is 6.0 LPA. Admission status: Open. Application deadline: July 2025.",
+    "deadline": "TNEA 2025 counselling (July–August 2025)"
+  },
+  {
+    "name": "NIT Calicut",
+    "city": "Calicut",
+    "state": "Kerala",
+    "nirf_rank": 21,
+    "type": "NIT",
+    "tuition_fee": 148000,
+    "avg_package": 10.5,
+    "highest_package": 32,
+    "exams": [
+      "JEE Main"
+    ],
+    "mode_of_admission": [
+      "JEE Main"
+    ],
+    "status": "Open",
+    "branches": [
+      "CSE",
+      "ECE",
+      "Mech",
+      "Civil",
+      "EE",
+      "Chemical",
+      "AI/ML",
+      "IT",
+      "Biotech"
+    ],
+    "cutoffs": {
+      "JEE Main": {
+        "General": {
+          "All_India": 24600,
+          "Home_State": 31980
+        },
+        "OBC": {
+          "All_India": 44280,
+          "Home_State": 54120
+        },
+        "EWS": {
+          "All_India": 39360,
+          "Home_State": 49200
+        },
+        "SC": {
+          "All_India": 86100,
+          "Home_State": 98400
+        },
+        "ST": {
+          "All_India": 123000,
+          "Home_State": 147600
+        }
+      }
+    },
+    "scholarships": [
+      {
+        "percent": 100,
+        "rank_below": 37500
+      },
+      {
+        "percent": 50,
+        "rank_below": 93750
+      },
+      {
+        "percent": 25,
+        "rank_below": 150000
+      }
+    ],
+    "description": "NIT Calicut is a prestigious NIT institution ranked NIRF #21 in Calicut, Kerala. Annual tuition is ₹148,000. Average placement package is 10.5 LPA. Admission status: Open. Application deadline: July 2025.",
+    "deadline": "JoSAA 2025 counselling (June–July 2025)"
+  },
+  {
+    "name": "Siksha O Anusandhan",
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "nirf_rank": 22,
+    "type": "Deemed",
+    "tuition_fee": 180000,
+    "avg_package": 6.8,
+    "highest_package": 26,
+    "exams": [
+      "SAAT",
+      "JEE Main"
+    ],
+    "mode_of_admission": [
+      "SAAT",
+      "JEE Main",
+      "12th Boards"
+    ],
+    "status": "Open",
+    "branches": [
+      "CSE",
+      "ECE",
+      "Mech",
+      "Civil",
+      "EE",
+      "Chemical",
+      "IT",
+      "AI/ML"
+    ],
+    "cutoffs": {
+      "JEE Main": {
+        "General": {
+          "All_India": 55000,
+          "Home_State": 71500
+        },
+        "OBC": {
+          "All_India": 99000,
+          "Home_State": 121000
+        },
+        "EWS": {
+          "All_India": 88000,
+          "Home_State": 110000
+        },
+        "SC": {
+          "All_India": 192500,
+          "Home_State": 220000
+        },
+        "ST": {
+          "All_India": 275000,
+          "Home_State": 330000
+        }
+      }
+    },
+    "scholarships": [
+      {
+        "percent": 100,
+        "rank_below": 30000
+      },
+      {
+        "percent": 50,
+        "rank_below": 75000
+      },
+      {
+        "percent": 25,
+        "rank_below": 120000
+      }
+    ],
+    "description": "Siksha O Anusandhan is a prestigious Deemed institution ranked NIRF #22 in Bhubaneswar, Odisha. Annual tuition is ₹180,000. Average placement package is 6.8 LPA. Admission status: Open. Application deadline: 2025-06-30."
+  },
+  {
+    "name": "Amrita Vishwa Vidyapeetham",
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "nirf_rank": 23,
+    "type": "Deemed",
+    "tuition_fee": 175000,
+    "avg_package": 7.0,
+    "highest_package": 25,
+    "exams": [
+      "AEEE",
+      "JEE Main"
+    ],
+    "mode_of_admission": [
+      "AEEE",
+      "JEE Main",
+      "12th Boards"
+    ],
+    "status": "Open",
+    "deadline": "2025-04-30",
+    "branches": [
+      "Civil",
+      "ECE",
+      "CSE",
+      "Chemical",
+      "IT",
+      "Mech"
+    ],
+    "cutoffs": {
+      "AEEE": {
+        "General": {
+          "All_India": 21000,
+          "Home_State": 27300
+        },
+        "OBC": {
+          "All_India": 37800,
+          "Home_State": 46200
+        },
+        "EWS": {
+          "All_India": 33600,
+          "Home_State": 42000
+        },
+        "SC": {
+          "All_India": 73500,
+          "Home_State": 84000
+        },
+        "ST": {
+          "All_India": 105000,
+          "Home_State": 126000
+        }
+      },
+      "JEE Main": {
+        "General": {
+          "All_India": 21000,
+          "Home_State": 27300
+        },
+        "OBC": {
+          "All_India": 37800,
+          "Home_State": 46200
+        },
+        "EWS": {
+          "All_India": 33600,
+          "Home_State": 42000
+        },
+        "SC": {
+          "All_India": 73500,
+          "Home_State": 84000
+        },
+        "ST": {
+          "All_India": 105000,
+          "Home_State": 126000
+        }
+      }
+    },
+    "scholarships": [
+      {
+        "percent": 100,
+        "rank_below": 31578
+      },
+      {
+        "percent": 50,
+        "rank_below": 78947
+      },
+      {
+        "percent": 25,
+        "rank_below": 126315
+      }
+    ],
+    "description": "Amrita Vishwa Vidyapeetham is a prestigious Deemed institution ranked NIRF #23 in Coimbatore, Tamil Nadu. Annual tuition is ₹175,000. Average placement package is 7.0 LPA. Admission status: Open. Application deadline: 2025-04-30."
+  },
+  {
+    "name": "Jamia Millia Islamia",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "nirf_rank": 24,
+    "type": "Central",
+    "tuition_fee": 45000,
+    "avg_package": 7.0,
+    "highest_package": 24,
+    "exams": [
+      "JMI Entrance"
+    ],
+    "mode_of_admission": [
+      "JMI Entrance Exam"
+    ],
+    "status": "Upcoming",
+    "deadline": "2025-05-01",
+    "branches": [
+      "CSE",
+      "ECE",
+      "Mech",
+      "Civil",
+      "EE",
+      "Chemical",
+      "AI/ML",
+      "IT",
+      "Biotech"
+    ],
+    "cutoffs": {
+      "JMI Entrance": {
+        "General": {
+          "All_India": 15000,
+          "Home_State": 19500
+        },
+        "OBC": {
+          "All_India": 27000,
+          "Home_State": 33000
+        },
+        "EWS": {
+          "All_India": 24000,
+          "Home_State": 30000
+        },
+        "SC": {
+          "All_India": 52500,
+          "Home_State": 60000
+        },
+        "ST": {
+          "All_India": 75000,
+          "Home_State": 90000
+        }
+      }
+    },
+    "scholarships": [
+      {
+        "percent": 100,
+        "rank_below": 20000
+      },
+      {
+        "percent": 50,
+        "rank_below": 50000
+      },
+      {
+        "percent": 25,
+        "rank_below": 80000
+      }
+    ],
+    "description": "Jamia Millia Islamia is a prestigious Central institution ranked NIRF #24 in New Delhi, Delhi. Annual tuition is ₹45,000. Average placement package is 7.0 LPA. Admission status: Upcoming. Application deadline: 2025-05-01."
+  },
+  {
+    "name": "IIT Gandhinagar",
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "nirf_rank": 25,
+    "type": "IIT",
+    "tuition_fee": 115000,
+    "avg_package": 13.5,
+    "highest_package": 42,
+    "exams": [
+      "JEE Advanced"
+    ],
+    "mode_of_admission": [
+      "JEE Advanced"
+    ],
+    "status": "Upcoming",
+    "branches": [
+      "CSE",
+      "ECE",
+      "Mech",
+      "Civil",
+      "EE",
+      "Chemical",
+      "AI/ML",
+      "IT",
+      "Biotech"
+    ],
+    "cutoffs": {
+      "JEE Advanced": {
+        "General": {
+          "All_India": 3060,
+          "Home_State": 3978
+        },
+        "OBC": {
+          "All_India": 5508,
+          "Home_State": 6732
+        },
+        "EWS": {
+          "All_India": 4896,
+          "Home_State": 6120
+        },
+        "SC": {
+          "All_India": 10710,
+          "Home_State": 12240
+        },
+        "ST": {
+          "All_India": 15300,
+          "Home_State": 18360
+        }
+      }
+    },
+    "scholarships": [
+      {
+        "percent": 100,
+        "rank_below": 42857
+      },
+      {
+        "percent": 50,
+        "rank_below": 107142
+      },
+      {
+        "percent": 25,
+        "rank_below": 171428
+      }
+    ],
+    "description": "IIT Gandhinagar is a prestigious IIT institution ranked NIRF #25 in Gandhinagar, Gujarat. Annual tuition is ₹115,000. Average placement package is 13.5 LPA. Admission status: Upcoming. Application deadline: July 2025.",
+    "deadline": "JoSAA 2025 counselling (June–July 2025)"
+  },
+  {
+    "name": "IIT Mandi",
+    "city": "Mandi",
+    "state": "Himachal Pradesh",
+    "nirf_rank": 26,
+    "type": "IIT",
+    "tuition_fee": 112000,
+    "avg_package": 13.0,
+    "highest_package": 40,
+    "exams": [
+      "JEE Advanced"
+    ],
+    "mode_of_admission": [
+      "JEE Advanced"
+    ],
+    "status": "Upcoming",
+    "branches": [
+      "CSE",
+      "ECE",
+      "Mech",
+      "Civil",
+      "EE",
+      "Chemical",
+      "AI/ML",
+      "Data Science"
+    ],
+    "cutoffs": {
+      "JEE Advanced": {
+        "General": {
+          "All_India": 4500,
+          "Home_State": 5850
+        },
+        "OBC": {
+          "All_India": 8100,
+          "Home_State": 9900
+        },
+        "EWS": {
+          "All_India": 7200,
+          "Home_State": 9000
+        },
+        "SC": {
+          "All_India": 15750,
+          "Home_State": 18000
+        },
+        "ST": {
+          "All_India": 22500,
+          "Home_State": 27000
+        }
+      }
+    },
+    "scholarships": [
+      {
+        "percent": 100,
+        "rank_below": 40000
+      },
+      {
+        "percent": 50,
+        "rank_below": 100000
+      },
+      {
+        "percent": 25,
+        "rank_below": 160000
+      }
+    ],
+    "description": "IIT Mandi is a prestigious IIT institution ranked NIRF #26 in Mandi, Himachal Pradesh. Annual tuition is ₹112,000. Average placement package is 13.0 LPA. Admission status: Upcoming. Application deadline: July 2025.",
+    "deadline": "JoSAA 2025 counselling (June–July 2025)"
+  },
+  {
+    "name": "IIT Jodhpur",
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "nirf_rank": 27,
+    "type": "IIT",
+    "tuition_fee": 110000,
+    "avg_package": 12.5,
+    "highest_package": 38,
+    "exams": [
+      "JEE Advanced"
+    ],
+    "mode_of_admission": [
+      "JEE Advanced"
+    ],
+    "status": "Upcoming",
+    "branches": [
+      "CSE",
+      "ECE",
+      "Mech",
+      "Civil",
+      "EE",
+      "Chemical",
+      "AI/ML",
+      "Biotech"
+    ],
+    "cutoffs": {
+      "JEE Advanced": {
+        "General": {
+          "All_India": 5200,
+          "Home_State": 6760
+        },
+        "OBC": {
+          "All_India": 9360,
+          "Home_State": 11440
+        },
+        "EWS": {
+          "All_India": 8320,
+          "Home_State": 10400
+        },
+        "SC": {
+          "All_India": 18200,
+          "Home_State": 20800
+        },
+        "ST": {
+          "All_India": 26000,
+          "Home_State": 31200
+        }
+      }
+    },
+    "scholarships": [
+      {
+        "percent": 100,
+        "rank_below": 38000
+      },
+      {
+        "percent": 50,
+        "rank_below": 95000
+      },
+      {
+        "percent": 25,
+        "rank_below": 152000
+      }
+    ],
+    "description": "IIT Jodhpur is a prestigious IIT institution ranked NIRF #27 in Jodhpur, Rajasthan. Annual tuition is ₹110,000. Average placement package is 12.5 LPA. Admission status: Upcoming. Application deadline: July 2025.",
+    "deadline": "JoSAA 2025 counselling (June–July 2025)"
+  },
+  {
+    "name": "NIT Warangal",
+    "city": "Warangal",
+    "state": "Telangana",
+    "nirf_rank": 28,
+    "type": "NIT",
+    "tuition_fee": 150000,
+    "avg_package": 11.5,
+    "highest_package": 38,
+    "exams": [
+      "JEE Main"
+    ],
+    "mode_of_admission": [
+      "JEE Main"
+    ],
+    "status": "Open",
+    "branches": [
+      "CSE",
+      "ECE",
+      "Mech",
+      "Civil",
+      "EE",
+      "Chemical",
+      "AI/ML",
+      "IT",
+      "Biotech"
+    ],
+    "cutoffs": {
+      "JEE Main": {
+        "General": {
+          "All_India": 7800,
+          "Home_State": 10140
+        },
+        "OBC": {
+          "All_India": 14040,
+          "Home_State": 17160
+        },
+        "EWS": {
+          "All_India": 12480,
+          "Home_State": 15600
+        },
+        "SC": {
+          "All_India": 27300,
+          "Home_State": 31200
+        },
+        "ST": {
+          "All_India": 39000,
+          "Home_State": 46800
+        }
+      }
+    },
+    "scholarships": [
+      {
+        "percent": 100,
+        "rank_below": 60000
+      },
+      {
+        "percent": 50,
+        "rank_below": 150000
+      },
+      {
+        "percent": 25,
+        "rank_below": 240000
+      }
+    ],
+    "description": "NIT Warangal is a prestigious NIT institution ranked NIRF #28 in Warangal, Telangana. Annual tuition is ₹150,000. Average placement package is 11.5 LPA. Admission status: Open. Application deadline: July 2025.",
+    "deadline": "JoSAA 2025 counselling (June–July 2025)"
+  },
+  {
+    "name": "Thapar Institute",
+    "city": "Patiala",
+    "state": "Punjab",
+    "nirf_rank": 29,
+    "type": "Deemed",
+    "tuition_fee": 185000,
+    "avg_package": 9.0,
+    "highest_package": 32,
+    "exams": [
+      "JEE Main"
+    ],
+    "mode_of_admission": [
+      "JEE Main",
+      "12th Boards"
+    ],
+    "status": "Open",
+    "deadline": "2025-06-10",
+    "branches": [
+      "Biotech",
+      "ECE",
+      "Civil",
+      "CSE",
+      "EE",
+      "Mech",
+      "AI/ML"
+    ],
+    "cutoffs": {
+      "JEE Main": {
+        "General": {
+          "All_India": 36000,
+          "Home_State": 46800
+        },
+        "OBC": {
+          "All_India": 64800,
+          "Home_State": 79200
+        },
+        "EWS": {
+          "All_India": 57600,
+          "Home_State": 72000
+        },
+        "SC": {
+          "All_India": 126000,
+          "Home_State": 144000
+        },
+        "ST": {
+          "All_India": 180000,
+          "Home_State": 216000
+        }
+      }
+    },
+    "scholarships": [
+      {
+        "percent": 100,
+        "rank_below": 20689
+      },
+      {
+        "percent": 50,
+        "rank_below": 51724
+      },
+      {
+        "percent": 25,
+        "rank_below": 82758
+      }
+    ],
+    "description": "Thapar Institute is a prestigious Deemed institution ranked NIRF #29 in Patiala, Punjab. Annual tuition is ₹185,000. Average placement package is 9.0 LPA. Admission status: Open. Application deadline: 2025-06-10."
+  },
+  {
+    "name": "Delhi Technological University",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "nirf_rank": 30,
+    "type": "Government",
+    "tuition_fee": 88000,
+    "avg_package": 10.0,
+    "highest_package": 40,
+    "exams": [
+      "JEE Main"
+    ],
+    "mode_of_admission": [
+      "JEE Main"
+    ],
+    "status": "Open",
+    "deadline": "2025-07-01",
+    "branches": [
+      "ECE",
+      "Mech",
+      "Biotech",
+      "Chemical",
+      "Civil",
+      "AI/ML",
+      "EE"
+    ],
+    "cutoffs": {
+      "JEE Main": {
+        "General": {
+          "All_India": 48000,
+          "Home_State": 62400
+        },
+        "OBC": {
+          "All_India": 86400,
+          "Home_State": 105600
+        },
+        "EWS": {
+          "All_India": 76800,
+          "Home_State": 96000
+        },
+        "SC": {
+          "All_India": 168000,
+          "Home_State": 192000
+        },
+        "ST": {
+          "All_India": 240000,
+          "Home_State": 288000
+        }
+      }
+    },
+    "scholarships": [
+      {
+        "percent": 100,
+        "rank_below": 17647
+      },
+      {
+        "percent": 50,
+        "rank_below": 44117
+      },
+      {
+        "percent": 25,
+        "rank_below": 70588
+      }
+    ],
+    "description": "Delhi Technological University is a prestigious Government institution ranked NIRF #30 in New Delhi, Delhi. Annual tuition is ₹88,000. Average placement package is 10.0 LPA. Admission status: Open. Application deadline: 2025-07-01."
+  },
+  {
+    "name": "Chandigarh University",
+    "city": "Mohali",
+    "state": "Punjab",
+    "nirf_rank": 31,
+    "type": "Private",
+    "tuition_fee": 145000,
+    "avg_package": 6.0,
+    "highest_package": 24,
+    "exams": [
+      "JEE Main",
+      "CUCET"
+    ],
+    "mode_of_admission": [
+      "JEE Main",
+      "CUCET",
+      "12th Boards"
+    ],
+    "status": "Open",
+    "deadline": "2025-06-15",
+    "branches": [
+      "Civil",
+      "ECE",
+      "CSE",
+      "Chemical"
+    ],
+    "cutoffs": {
+      "JEE Main": {
+        "General": {
+          "All_India": 62000,
+          "Home_State": 80600
+        },
+        "OBC": {
+          "All_India": 111600,
+          "Home_State": 136400
+        },
+        "EWS": {
+          "All_India": 99200,
+          "Home_State": 124000
+        },
+        "SC": {
+          "All_India": 217000,
+          "Home_State": 248000
+        },
+        "ST": {
+          "All_India": 310000,
+          "Home_State": 372000
+        }
+      },
+      "CUCET": {
+        "General": {
+          "All_India": 62000,
+          "Home_State": 80600
+        },
+        "OBC": {
+          "All_India": 111600,
+          "Home_State": 136400
+        },
+        "EWS": {
+          "All_India": 99200,
+          "Home_State": 124000
+        },
+        "SC": {
+          "All_India": 217000,
+          "Home_State": 248000
+        },
+        "ST": {
+          "All_India": 310000,
+          "Home_State": 372000
+        }
+      }
+    },
+    "scholarships": [
+      {
+        "percent": 100,
+        "rank_below": 14634
+      },
+      {
+        "percent": 50,
+        "rank_below": 36585
+      },
+      {
+        "percent": 25,
+        "rank_below": 58536
+      }
+    ],
+    "description": "Chandigarh University is a prestigious Private institution ranked NIRF #31 in Mohali, Punjab. Annual tuition is ₹145,000. Average placement package is 6.0 LPA. Admission status: Open. Application deadline: 2025-06-15."
+  },
+  {
+    "name": "IIT Ropar",
+    "city": "Rupnagar",
+    "state": "Punjab",
+    "nirf_rank": 32,
+    "type": "IIT",
+    "tuition_fee": 110000,
+    "avg_package": 12.0,
+    "highest_package": 36,
+    "exams": [
+      "JEE Advanced"
+    ],
+    "mode_of_admission": [
+      "JEE Advanced"
+    ],
+    "status": "Upcoming",
+    "branches": [
+      "CSE",
+      "ECE",
+      "Mech",
+      "Civil",
+      "EE",
+      "Chemical",
+      "AI/ML"
+    ],
+    "cutoffs": {
+      "JEE Advanced": {
+        "General": {
+          "All_India": 6000,
+          "Home_State": 7800
+        },
+        "OBC": {
+          "All_India": 10800,
+          "Home_State": 13200
+        },
+        "EWS": {
+          "All_India": 9600,
+          "Home_State": 12000
+        },
+        "SC": {
+          "All_India": 21000,
+          "Home_State": 24000
+        },
+        "ST": {
+          "All_India": 30000,
+          "Home_State": 36000
+        }
+      }
+    },
+    "scholarships": [
+      {
+        "percent": 100,
+        "rank_below": 35000
+      },
+      {
+        "percent": 50,
+        "rank_below": 87500
+      },
+      {
+        "percent": 25,
+        "rank_below": 140000
+      }
+    ],
+    "description": "IIT Ropar is a prestigious IIT institution ranked NIRF #32 in Rupnagar, Punjab. Annual tuition is ₹110,000. Average placement package is 12.0 LPA. Admission status: Upcoming. Application deadline: July 2025.",
+    "deadline": "JoSAA 2025 counselling (June–July 2025)"
+  },
+  {
+    "name": "Kalasalingam University",
+    "city": "Krishnankoil",
+    "state": "Tamil Nadu",
+    "nirf_rank": 33,
+    "type": "Deemed",
+    "tuition_fee": 90000,
+    "avg_package": 5.0,
+    "highest_package": 15,
+    "exams": [
+      "JEE Main"
+    ],
+    "mode_of_admission": [
+      "JEE Main",
+      "12th Boards"
+    ],
+    "status": "Open",
+    "deadline": "2025-06-15",
+    "branches": [
+      "Mech",
+      "Civil",
+      "ECE",
+      "IT"
+    ],
+    "cutoffs": {
+      "JEE Main": {
+        "General": {
+          "All_India": 75000,
+          "Home_State": 97500
+        },
+        "OBC": {
+          "All_India": 135000,
+          "Home_State": 165000
+        },
+        "EWS": {
+          "All_India": 120000,
+          "Home_State": 150000
+        },
+        "SC": {
+          "All_India": 262500,
+          "Home_State": 300000
+        },
+        "ST": {
+          "All_India": 375000,
+          "Home_State": 450000
+        }
+      }
+    },
+    "scholarships": [
+      {
+        "percent": 100,
+        "rank_below": 10909
+      },
+      {
+        "percent": 50,
+        "rank_below": 27272
+      },
+      {
+        "percent": 25,
+        "rank_below": 43636
+      }
+    ],
+    "description": "Kalasalingam University is a prestigious Deemed institution ranked NIRF #33 in Krishnankoil, Tamil Nadu. Annual tuition is ₹90,000. Average placement package is 5.0 LPA. Admission status: Open. Application deadline: 2025-06-15."
+  },
+  {
+    "name": "Aligarh Muslim University",
+    "city": "Aligarh",
+    "state": "Uttar Pradesh",
+    "nirf_rank": 34,
+    "type": "Central",
+    "tuition_fee": 12000,
+    "avg_package": 6.5,
+    "highest_package": 22,
+    "exams": [
+      "AMUEEE"
+    ],
+    "mode_of_admission": [
+      "AMUEEE"
+    ],
+    "status": "Open",
+    "branches": [
+      "CSE",
+      "ECE",
+      "Mech",
+      "Civil",
+      "EE",
+      "Chemical"
+    ],
+    "cutoffs": {
+      "AMUEEE": {
+        "General": {
+          "All_India": 18000,
+          "Home_State": 23400
+        },
+        "OBC": {
+          "All_India": 32400,
+          "Home_State": 39600
+        },
+        "EWS": {
+          "All_India": 28800,
+          "Home_State": 36000
+        },
+        "SC": {
+          "All_India": 63000,
+          "Home_State": 72000
+        },
+        "ST": {
+          "All_India": 90000,
+          "Home_State": 108000
+        }
+      }
+    },
+    "scholarships": [
+      {
+        "percent": 100,
+        "rank_below": 25000
+      },
+      {
+        "percent": 50,
+        "rank_below": 62500
+      },
+      {
+        "percent": 25,
+        "rank_below": 100000
+      }
+    ],
+    "description": "Aligarh Muslim University is a prestigious Central institution ranked NIRF #34 in Aligarh, Uttar Pradesh. Annual tuition is ₹12,000. Average placement package is 6.5 LPA. Admission status: Open. Application deadline: 2025-06-01.",
+    "deadline": "2025-06-01"
+  },
+  {
+    "name": "KL University",
+    "city": "Vaddeswaram",
+    "state": "Andhra Pradesh",
+    "nirf_rank": 35,
+    "type": "Deemed",
+    "tuition_fee": 160000,
+    "avg_package": 6.2,
+    "highest_package": 24,
+    "exams": [
+      "KLEEE",
+      "JEE Main"
+    ],
+    "mode_of_admission": [
+      "KLEEE",
+      "JEE Main",
+      "12th Boards"
+    ],
+    "status": "Open",
+    "branches": [
+      "CSE",
+      "ECE",
+      "Mech",
+      "Civil",
+      "EE",
+      "Chemical",
+      "IT",
+      "AI/ML"
+    ],
+    "cutoffs": {
+      "JEE Main": {
+        "General": {
+          "All_India": 65000,
+          "Home_State": 84500
+        },
+        "OBC": {
+          "All_India": 117000,
+          "Home_State": 143000
+        },
+        "EWS": {
+          "All_India": 104000,
+          "Home_State": 130000
+        },
+        "SC": {
+          "All_India": 227500,
+          "Home_State": 260000
+        },
+        "ST": {
+          "All_India": 325000,
+          "Home_State": 390000
+        }
+      }
+    },
+    "scholarships": [
+      {
+        "percent": 100,
+        "rank_below": 20000
+      },
+      {
+        "percent": 50,
+        "rank_below": 50000
+      },
+      {
+        "percent": 25,
+        "rank_below": 80000
+      }
+    ],
+    "description": "KL University is a prestigious Deemed institution ranked NIRF #35 in Vaddeswaram, Andhra Pradesh. Annual tuition is ₹160,000. Average placement package is 6.2 LPA. Admission status: Open. Application deadline: 2025-06-30.",
+    "deadline": "2025-06-30"
+  },
+  {
+    "name": "KIIT Bhubaneswar",
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "nirf_rank": 36,
+    "type": "Deemed",
+    "tuition_fee": 200000,
+    "avg_package": 7.2,
+    "highest_package": 28,
+    "exams": [
+      "KIITEE",
+      "JEE Main"
+    ],
+    "mode_of_admission": [
+      "KIITEE",
+      "JEE Main",
+      "12th Boards"
+    ],
+    "status": "Open",
+    "branches": [
+      "CSE",
+      "ECE",
+      "Mech",
+      "Civil",
+      "EE",
+      "Chemical",
+      "IT",
+      "AI/ML",
+      "Biotech"
+    ],
+    "cutoffs": {
+      "JEE Main": {
+        "General": {
+          "All_India": 70000,
+          "Home_State": 91000
+        },
+        "OBC": {
+          "All_India": 126000,
+          "Home_State": 154000
+        },
+        "EWS": {
+          "All_India": 112000,
+          "Home_State": 140000
+        },
+        "SC": {
+          "All_India": 245000,
+          "Home_State": 280000
+        },
+        "ST": {
+          "All_India": 350000,
+          "Home_State": 420000
+        }
+      }
+    },
+    "scholarships": [
+      {
+        "percent": 100,
+        "rank_below": 18000
+      },
+      {
+        "percent": 50,
+        "rank_below": 45000
+      },
+      {
+        "percent": 25,
+        "rank_below": 72000
+      }
+    ],
+    "description": "KIIT Bhubaneswar is a prestigious Deemed institution ranked NIRF #36 in Bhubaneswar, Odisha. Annual tuition is ₹200,000. Average placement package is 7.2 LPA. Admission status: Open. Application deadline: 2025-06-20.",
+    "deadline": "2025-06-20"
+  },
+  {
+    "name": "Amity University Noida",
+    "city": "Gautam Budh Nagar",
+    "state": "Uttar Pradesh",
+    "nirf_rank": 37,
+    "type": "Private",
+    "tuition_fee": 210000,
+    "avg_package": 5.8,
+    "highest_package": 22,
+    "exams": [
+      "Amity JEE",
+      "JEE Main"
+    ],
+    "mode_of_admission": [
+      "Amity JEE",
+      "JEE Main",
+      "12th Boards"
+    ],
+    "status": "Open",
+    "branches": [
+      "CSE",
+      "ECE",
+      "Mech",
+      "Civil",
+      "EE",
+      "IT",
+      "AI/ML"
+    ],
+    "cutoffs": {
+      "JEE Main": {
+        "General": {
+          "All_India": 80000,
+          "Home_State": 104000
+        },
+        "OBC": {
+          "All_India": 144000,
+          "Home_State": 176000
+        },
+        "EWS": {
+          "All_India": 128000,
+          "Home_State": 160000
+        },
+        "SC": {
+          "All_India": 280000,
+          "Home_State": 320000
+        },
+        "ST": {
+          "All_India": 400000,
+          "Home_State": 480000
+        }
+      }
+    },
+    "scholarships": [
+      {
+        "percent": 100,
+        "rank_below": 15000
+      },
+      {
+        "percent": 50,
+        "rank_below": 37500
+      },
+      {
+        "percent": 25,
+        "rank_below": 60000
+      }
+    ],
+    "description": "Amity University Noida is a prestigious Private institution ranked NIRF #37 in Gautam Budh Nagar, Uttar Pradesh. Annual tuition is ₹210,000. Average placement package is 5.8 LPA. Admission status: Open. Application deadline: 2025-07-15.",
+    "deadline": "2025-07-15"
+  },
+  {
+    "name": "IIIT Hyderabad",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "nirf_rank": 38,
+    "type": "IIIT",
+    "tuition_fee": 175000,
+    "avg_package": 17.5,
+    "highest_package": 65,
+    "exams": [
+      "UGEE",
+      "JEE Main"
+    ],
+    "mode_of_admission": [
+      "UGEE",
+      "JEE Main"
+    ],
+    "status": "Open",
+    "deadline": "2025-04-30",
+    "branches": [
+      "ECE",
+      "Civil",
+      "Biotech",
+      "CSE",
+      "Mech",
+      "Chemical",
+      "EE"
+    ],
+    "cutoffs": {
+      "UGEE": {
+        "General": {
+          "All_India": 4200,
+          "Home_State": 5460
+        },
+        "OBC": {
+          "All_India": 7560,
+          "Home_State": 9240
+        },
+        "EWS": {
+          "All_India": 6720,
+          "Home_State": 8400
+        },
+        "SC": {
+          "All_India": 14700,
+          "Home_State": 16800
+        },
+        "ST": {
+          "All_India": 21000,
+          "Home_State": 25200
+        }
+      },
+      "JEE Main": {
+        "General": {
+          "All_India": 4200,
+          "Home_State": 5460
+        },
+        "OBC": {
+          "All_India": 7560,
+          "Home_State": 9240
+        },
+        "EWS": {
+          "All_India": 6720,
+          "Home_State": 8400
+        },
+        "SC": {
+          "All_India": 14700,
+          "Home_State": 16800
+        },
+        "ST": {
+          "All_India": 21000,
+          "Home_State": 25200
+        }
+      }
+    },
+    "scholarships": [
+      {
+        "percent": 100,
+        "rank_below": 28571
+      },
+      {
+        "percent": 50,
+        "rank_below": 71428
+      },
+      {
+        "percent": 25,
+        "rank_below": 114285
+      }
+    ],
+    "description": "IIIT Hyderabad is a prestigious IIIT institution ranked NIRF #38 in Hyderabad, Telangana. Annual tuition is ₹175,000. Average placement package is 17.5 LPA. Admission status: Open. Application deadline: 2025-04-30."
+  },
+  {
+    "name": "IIT Bhubaneswar",
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "nirf_rank": 39,
+    "type": "IIT",
+    "tuition_fee": 110000,
+    "avg_package": 11.5,
+    "highest_package": 34,
+    "exams": [
+      "JEE Advanced"
+    ],
+    "mode_of_admission": [
+      "JEE Advanced"
+    ],
+    "status": "Upcoming",
+    "branches": [
+      "CSE",
+      "ECE",
+      "Mech",
+      "Civil",
+      "EE",
+      "Chemical",
+      "AI/ML"
+    ],
+    "cutoffs": {
+      "JEE Advanced": {
+        "General": {
+          "All_India": 7000,
+          "Home_State": 9100
+        },
+        "OBC": {
+          "All_India": 12600,
+          "Home_State": 15400
+        },
+        "EWS": {
+          "All_India": 11200,
+          "Home_State": 14000
+        },
+        "SC": {
+          "All_India": 24500,
+          "Home_State": 28000
+        },
+        "ST": {
+          "All_India": 35000,
+          "Home_State": 42000
+        }
+      }
+    },
+    "scholarships": [
+      {
+        "percent": 100,
+        "rank_below": 32000
+      },
+      {
+        "percent": 50,
+        "rank_below": 80000
+      },
+      {
+        "percent": 25,
+        "rank_below": 128000
+      }
+    ],
+    "description": "IIT Bhubaneswar is a prestigious IIT institution ranked NIRF #39 in Bhubaneswar, Odisha. Annual tuition is ₹110,000. Average placement package is 11.5 LPA. Admission status: Upcoming. Application deadline: July 2025.",
+    "deadline": "JoSAA 2025 counselling (June–July 2025)"
+  },
+  {
+    "name": "SASTRA Thanjavur",
+    "city": "Thanjavur",
+    "state": "Tamil Nadu",
+    "nirf_rank": 40,
+    "type": "Deemed",
+    "tuition_fee": 155000,
+    "avg_package": 6.8,
+    "highest_package": 26,
+    "exams": [
+      "JEE Main",
+      "12th Boards"
+    ],
+    "mode_of_admission": [
+      "JEE Main",
+      "12th Boards"
+    ],
+    "status": "Open",
+    "branches": [
+      "CSE",
+      "ECE",
+      "Mech",
+      "Civil",
+      "EE",
+      "Chemical",
+      "IT",
+      "AI/ML"
+    ],
+    "cutoffs": {
+      "JEE Main": {
+        "General": {
+          "All_India": 30000,
+          "Home_State": 39000
+        },
+        "OBC": {
+          "All_India": 54000,
+          "Home_State": 66000
+        },
+        "EWS": {
+          "All_India": 48000,
+          "Home_State": 60000
+        },
+        "SC": {
+          "All_India": 105000,
+          "Home_State": 120000
+        },
+        "ST": {
+          "All_India": 150000,
+          "Home_State": 180000
+        }
+      }
+    },
+    "scholarships": [
+      {
+        "percent": 100,
+        "rank_below": 22000
+      },
+      {
+        "percent": 50,
+        "rank_below": 55000
+      },
+      {
+        "percent": 25,
+        "rank_below": 88000
+      }
+    ],
+    "description": "SASTRA Thanjavur is a prestigious Deemed institution ranked NIRF #40 in Thanjavur, Tamil Nadu. Annual tuition is ₹155,000. Average placement package is 6.8 LPA. Admission status: Open. Application deadline: 2025-06-30.",
+    "deadline": "2025-06-30"
+  },
+  {
+    "name": "Institute of Chemical Technology",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "nirf_rank": 41,
+    "type": "Government",
+    "tuition_fee": 65000,
+    "avg_package": 8.5,
+    "highest_package": 32,
+    "exams": [
+      "MHT-CET",
+      "JEE Main"
+    ],
+    "mode_of_admission": [
+      "MHT-CET",
+      "JEE Main"
+    ],
+    "status": "Open",
+    "branches": [
+      "Chemical",
+      "Polymer",
+      "Pharma",
+      "Oil & Paint",
+      "Food"
+    ],
+    "cutoffs": {
+      "MHT-CET": {
+        "General": {
+          "All_India": 15000,
+          "Home_State": 19500
+        },
+        "OBC": {
+          "All_India": 27000,
+          "Home_State": 33000
+        },
+        "EWS": {
+          "All_India": 24000,
+          "Home_State": 30000
+        },
+        "SC": {
+          "All_India": 52500,
+          "Home_State": 60000
+        },
+        "ST": {
+          "All_India": 75000,
+          "Home_State": 90000
+        }
+      }
+    },
+    "scholarships": [
+      {
+        "percent": 100,
+        "rank_below": 28000
+      },
+      {
+        "percent": 50,
+        "rank_below": 70000
+      },
+      {
+        "percent": 25,
+        "rank_below": 112000
+      }
+    ],
+    "description": "Institute of Chemical Technology is a prestigious Government institution ranked NIRF #41 in Mumbai, Maharashtra. Annual tuition is ₹65,000. Average placement package is 8.5 LPA. Admission status: Open. Application deadline: 2025-07-15.",
+    "deadline": "2025-07-15"
+  },
+  {
+    "name": "MNIT Jaipur",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "nirf_rank": 42,
+    "type": "NIT",
+    "tuition_fee": 145000,
+    "avg_package": 9.5,
+    "highest_package": 28,
+    "exams": [
+      "JEE Main"
+    ],
+    "mode_of_admission": [
+      "JEE Main"
+    ],
+    "status": "Open",
+    "branches": [
+      "CSE",
+      "ECE",
+      "Mech",
+      "Civil",
+      "EE",
+      "Chemical",
+      "AI/ML",
+      "IT",
+      "Biotech"
+    ],
+    "cutoffs": {
+      "JEE Main": {
+        "General": {
+          "All_India": 41400,
+          "Home_State": 53820
+        },
+        "OBC": {
+          "All_India": 74520,
+          "Home_State": 91080
+        },
+        "EWS": {
+          "All_India": 66240,
+          "Home_State": 82800
+        },
+        "SC": {
+          "All_India": 144900,
+          "Home_State": 165600
+        },
+        "ST": {
+          "All_India": 207000,
+          "Home_State": 248400
+        }
+      }
+    },
+    "scholarships": [
+      {
+        "percent": 100,
+        "rank_below": 27272
+      },
+      {
+        "percent": 50,
+        "rank_below": 68181
+      },
+      {
+        "percent": 25,
+        "rank_below": 109090
+      }
+    ],
+    "description": "MNIT Jaipur is a prestigious NIT institution ranked NIRF #42 in Jaipur, Rajasthan. Annual tuition is ₹145,000. Average placement package is 9.5 LPA. Admission status: Open. Application deadline: July 2025.",
+    "deadline": "JoSAA 2025 counselling (June–July 2025)"
+  },
+  {
+    "name": "UPES Dehradun",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "nirf_rank": 43,
+    "type": "Private",
+    "tuition_fee": 235000,
+    "avg_package": 7.5,
+    "highest_package": 30,
+    "exams": [
+      "UPESEAT",
+      "JEE Main"
+    ],
+    "mode_of_admission": [
+      "UPESEAT",
+      "JEE Main",
+      "12th Boards"
+    ],
+    "status": "Open",
+    "branches": [
+      "CSE",
+      "ECE",
+      "Mech",
+      "Civil",
+      "EE",
+      "Petroleum",
+      "AI/ML"
+    ],
+    "cutoffs": {
+      "JEE Main": {
+        "General": {
+          "All_India": 58000,
+          "Home_State": 75400
+        },
+        "OBC": {
+          "All_India": 104400,
+          "Home_State": 127600
+        },
+        "EWS": {
+          "All_India": 92800,
+          "Home_State": 116000
+        },
+        "SC": {
+          "All_India": 203000,
+          "Home_State": 232000
+        },
+        "ST": {
+          "All_India": 290000,
+          "Home_State": 348000
+        }
+      }
+    },
+    "scholarships": [
+      {
+        "percent": 100,
+        "rank_below": 16000
+      },
+      {
+        "percent": 50,
+        "rank_below": 40000
+      },
+      {
+        "percent": 25,
+        "rank_below": 64000
+      }
+    ],
+    "description": "UPES Dehradun is a prestigious Private institution ranked NIRF #43 in Dehradun, Uttarakhand. Annual tuition is ₹235,000. Average placement package is 7.5 LPA. Admission status: Open. Application deadline: 2025-06-30.",
+    "deadline": "2025-06-30"
+  },
+  {
+    "name": "VNIT Nagpur",
+    "city": "Nagpur",
+    "state": "Maharashtra",
+    "nirf_rank": 44,
+    "type": "NIT",
+    "tuition_fee": 143000,
+    "avg_package": 9.0,
+    "highest_package": 26,
+    "exams": [
+      "JEE Main"
+    ],
+    "mode_of_admission": [
+      "JEE Main"
+    ],
+    "status": "Open",
+    "branches": [
+      "CSE",
+      "ECE",
+      "Mech",
+      "Civil",
+      "EE",
+      "Chemical",
+      "AI/ML",
+      "IT",
+      "Biotech"
+    ],
+    "cutoffs": {
+      "JEE Main": {
+        "General": {
+          "All_India": 49800,
+          "Home_State": 64740
+        },
+        "OBC": {
+          "All_India": 89640,
+          "Home_State": 109560
+        },
+        "EWS": {
+          "All_India": 79680,
+          "Home_State": 99600
+        },
+        "SC": {
+          "All_India": 174300,
+          "Home_State": 199200
+        },
+        "ST": {
+          "All_India": 249000,
+          "Home_State": 298800
+        }
+      }
+    },
+    "scholarships": [
+      {
+        "percent": 100,
+        "rank_below": 24000
+      },
+      {
+        "percent": 50,
+        "rank_below": 60000
+      },
+      {
+        "percent": 25,
+        "rank_below": 96000
+      }
+    ],
+    "description": "VNIT Nagpur is a prestigious NIT institution ranked NIRF #44 in Nagpur, Maharashtra. Annual tuition is ₹143,000. Average placement package is 9.0 LPA. Admission status: Open. Application deadline: July 2025.",
+    "deadline": "JoSAA 2025 counselling (June–July 2025)"
+  },
+  {
+    "name": "Saveetha Institute",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "nirf_rank": 45,
+    "type": "Deemed",
+    "tuition_fee": 170000,
+    "avg_package": 5.5,
+    "highest_package": 18,
+    "exams": [
+      "12th Boards"
+    ],
+    "mode_of_admission": [
+      "12th Boards"
+    ],
+    "status": "Open",
+    "branches": [
+      "CSE",
+      "ECE",
+      "Mech",
+      "Civil",
+      "EE",
+      "Chemical",
+      "IT",
+      "AI/ML"
+    ],
+    "cutoffs": {
+      "12th Boards": {
+        "General": {
+          "All_India": 60,
+          "Home_State": 55
+        },
+        "OBC": {
+          "All_India": 55,
+          "Home_State": 50
+        },
+        "EWS": {
+          "All_India": 58,
+          "Home_State": 53
+        },
+        "SC": {
+          "All_India": 50,
+          "Home_State": 45
+        },
+        "ST": {
+          "All_India": 48,
+          "Home_State": 43
+        }
+      }
+    },
+    "scholarships": [
+      {
+        "percent": 100,
+        "rank_below": 12000
+      },
+      {
+        "percent": 50,
+        "rank_below": 30000
+      },
+      {
+        "percent": 25,
+        "rank_below": 48000
+      }
+    ],
+    "description": "Saveetha Institute is a prestigious Deemed institution ranked NIRF #45 in Chennai, Tamil Nadu. Annual tuition is ₹170,000. Average placement package is 5.5 LPA. Admission status: Open. Application deadline: 2025-07-31.",
+    "deadline": "2025-07-31"
+  },
+  {
+    "name": "Symbiosis Institute of Technology",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "nirf_rank": 46,
+    "type": "Deemed",
+    "tuition_fee": 240000,
+    "avg_package": 6.5,
+    "highest_package": 22,
+    "exams": [
+      "SET",
+      "JEE Main"
+    ],
+    "mode_of_admission": [
+      "SET",
+      "JEE Main"
+    ],
+    "status": "Open",
+    "deadline": "2025-05-10",
+    "branches": [
+      "Chemical",
+      "Mech",
+      "EE",
+      "AI/ML",
+      "CSE"
+    ],
+    "cutoffs": {
+      "SET": {
+        "General": {
+          "All_India": 82500,
+          "Home_State": 107250
+        },
+        "OBC": {
+          "All_India": 148500,
+          "Home_State": 181500
+        },
+        "EWS": {
+          "All_India": 132000,
+          "Home_State": 165000
+        },
+        "SC": {
+          "All_India": 288750,
+          "Home_State": 330000
+        },
+        "ST": {
+          "All_India": 412500,
+          "Home_State": 495000
+        }
+      },
+      "JEE Main": {
+        "General": {
+          "All_India": 82500,
+          "Home_State": 107250
+        },
+        "OBC": {
+          "All_India": 148500,
+          "Home_State": 181500
+        },
+        "EWS": {
+          "All_India": 132000,
+          "Home_State": 165000
+        },
+        "SC": {
+          "All_India": 288750,
+          "Home_State": 330000
+        },
+        "ST": {
+          "All_India": 412500,
+          "Home_State": 495000
+        }
+      }
+    },
+    "scholarships": [
+      {
+        "percent": 100,
+        "rank_below": 10000
+      },
+      {
+        "percent": 50,
+        "rank_below": 25000
+      },
+      {
+        "percent": 25,
+        "rank_below": 40000
+      }
+    ],
+    "description": "Symbiosis Institute of Technology is a prestigious Deemed institution ranked NIRF #46 in Pune, Maharashtra. Annual tuition is ₹240,000. Average placement package is 6.5 LPA. Admission status: Open. Application deadline: 2025-05-10."
+  },
+  {
+    "name": "SSN College of Engineering",
+    "city": "Kalavakkam",
+    "state": "Tamil Nadu",
+    "nirf_rank": 47,
+    "type": "Private",
+    "tuition_fee": 110000,
+    "avg_package": 6.8,
+    "highest_package": 24,
+    "exams": [
+      "TNEA"
+    ],
+    "mode_of_admission": [
+      "TNEA",
+      "12th Boards"
+    ],
+    "status": "Upcoming",
+    "deadline": "2025-07-01",
+    "branches": [
+      "EE",
+      "Civil",
+      "Chemical",
+      "Mech",
+      "CSE",
+      "ECE",
+      "Biotech"
+    ],
+    "cutoffs": {
+      "TNEA": {
+        "General": {
+          "All_India": 78000,
+          "Home_State": 101400
+        },
+        "OBC": {
+          "All_India": 140400,
+          "Home_State": 171600
+        },
+        "EWS": {
+          "All_India": 124800,
+          "Home_State": 156000
+        },
+        "SC": {
+          "All_India": 273000,
+          "Home_State": 312000
+        },
+        "ST": {
+          "All_India": 390000,
+          "Home_State": 468000
+        }
+      }
+    },
+    "scholarships": [
+      {
+        "percent": 100,
+        "rank_below": 12244
+      },
+      {
+        "percent": 50,
+        "rank_below": 30612
+      },
+      {
+        "percent": 25,
+        "rank_below": 48979
+      }
+    ],
+    "description": "SSN College of Engineering is a prestigious Private institution ranked NIRF #47 in Kalavakkam, Tamil Nadu. Annual tuition is ₹110,000. Average placement package is 6.8 LPA. Admission status: Upcoming. Application deadline: 2025-07-01."
+  },
+  {
+    "name": "Lovely Professional University",
+    "city": "Phagwara",
+    "state": "Punjab",
+    "nirf_rank": 48,
+    "type": "Private",
+    "tuition_fee": 130000,
+    "avg_package": 5.8,
+    "highest_package": 25,
+    "exams": [
+      "JEE Main",
+      "LPUNEST"
+    ],
+    "mode_of_admission": [
+      "JEE Main",
+      "LPUNEST",
+      "12th Boards"
+    ],
+    "status": "Open",
+    "deadline": "2025-05-31",
+    "branches": [
+      "IT",
+      "CSE",
+      "Biotech",
+      "Mech",
+      "Chemical",
+      "ECE"
+    ],
+    "cutoffs": {
+      "JEE Main": {
+        "General": {
+          "All_India": 46000,
+          "Home_State": 59800
+        },
+        "OBC": {
+          "All_India": 82800,
+          "Home_State": 101200
+        },
+        "EWS": {
+          "All_India": 73600,
+          "Home_State": 92000
+        },
+        "SC": {
+          "All_India": 161000,
+          "Home_State": 184000
+        },
+        "ST": {
+          "All_India": 230000,
+          "Home_State": 276000
+        }
+      },
+      "LPUNEST": {
+        "General": {
+          "All_India": 46000,
+          "Home_State": 59800
+        },
+        "OBC": {
+          "All_India": 82800,
+          "Home_State": 101200
+        },
+        "EWS": {
+          "All_India": 73600,
+          "Home_State": 92000
+        },
+        "SC": {
+          "All_India": 161000,
+          "Home_State": 184000
+        },
+        "ST": {
+          "All_India": 230000,
+          "Home_State": 276000
+        }
+      }
+    },
+    "scholarships": [
+      {
+        "percent": 100,
+        "rank_below": 18181
+      },
+      {
+        "percent": 50,
+        "rank_below": 45454
+      },
+      {
+        "percent": 25,
+        "rank_below": 72727
+      }
+    ],
+    "description": "Lovely Professional University is a prestigious Private institution ranked NIRF #48 in Phagwara, Punjab. Annual tuition is ₹130,000. Average placement package is 5.8 LPA. Admission status: Open. Application deadline: 2025-05-31."
+  },
+  {
+    "name": "NIT Durgapur",
+    "city": "Durgapur",
+    "state": "West Bengal",
+    "nirf_rank": 49,
+    "type": "NIT",
+    "tuition_fee": 142000,
+    "avg_package": 8.8,
+    "highest_package": 25,
+    "exams": [
+      "JEE Main"
+    ],
+    "mode_of_admission": [
+      "JEE Main"
+    ],
+    "status": "Open",
+    "branches": [
+      "CSE",
+      "ECE",
+      "Mech",
+      "Civil",
+      "EE",
+      "Chemical",
+      "IT",
+      "Metallurgy"
+    ],
+    "cutoffs": {
+      "JEE Main": {
+        "General": {
+          "All_India": 56000,
+          "Home_State": 72800
+        },
+        "OBC": {
+          "All_India": 100800,
+          "Home_State": 123200
+        },
+        "EWS": {
+          "All_India": 89600,
+          "Home_State": 112000
+        },
+        "SC": {
+          "All_India": 196000,
+          "Home_State": 224000
+        },
+        "ST": {
+          "All_India": 280000,
+          "Home_State": 336000
+        }
+      }
+    },
+    "scholarships": [
+      {
+        "percent": 100,
+        "rank_below": 22000
+      },
+      {
+        "percent": 50,
+        "rank_below": 55000
+      },
+      {
+        "percent": 25,
+        "rank_below": 88000
+      }
+    ],
+    "description": "NIT Durgapur is a prestigious NIT institution ranked NIRF #49 in Durgapur, West Bengal. Annual tuition is ₹142,000. Average placement package is 8.8 LPA. Admission status: Open. Application deadline: July 2025.",
+    "deadline": "JoSAA 2025 counselling (June–July 2025)"
+  },
+  {
+    "name": "NIT Silchar",
+    "city": "Silchar",
+    "state": "Assam",
+    "nirf_rank": 50,
+    "type": "NIT",
+    "tuition_fee": 138000,
+    "avg_package": 7.5,
+    "highest_package": 20,
+    "exams": [
+      "JEE Main"
+    ],
+    "mode_of_admission": [
+      "JEE Main"
+    ],
+    "status": "Open",
+    "branches": [
+      "CSE",
+      "ECE",
+      "Mech",
+      "Civil",
+      "EE",
+      "Chemical",
+      "AI/ML",
+      "IT",
+      "Biotech"
+    ],
+    "cutoffs": {
+      "JEE Main": {
+        "General": {
+          "All_India": 83400,
+          "Home_State": 108420
+        },
+        "OBC": {
+          "All_India": 150120,
+          "Home_State": 183480
+        },
+        "EWS": {
+          "All_India": 133440,
+          "Home_State": 166800
+        },
+        "SC": {
+          "All_India": 291900,
+          "Home_State": 333600
+        },
+        "ST": {
+          "All_India": 417000,
+          "Home_State": 500400
+        }
+      }
+    },
+    "scholarships": [
+      {
+        "percent": 100,
+        "rank_below": 16216
+      },
+      {
+        "percent": 50,
+        "rank_below": 40540
+      },
+      {
+        "percent": 25,
+        "rank_below": 64864
+      }
+    ],
+    "description": "NIT Silchar is a prestigious NIT institution ranked NIRF #50 in Silchar, Assam. Annual tuition is ₹138,000. Average placement package is 7.5 LPA. Admission status: Open. Application deadline: July 2025.",
+    "deadline": "JoSAA 2025 counselling (June–July 2025)"
+  }
+]

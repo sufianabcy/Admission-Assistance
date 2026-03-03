@@ -10,6 +10,7 @@ Public API:
 
 import json
 import sys
+import logging
 from pathlib import Path
 
 import chromadb
@@ -24,11 +25,13 @@ from agent.config import (
     EMBED_MODEL,
 )
 
+log = logging.getLogger(__name__)
+
 
 def _load_colleges(data_path: str = DATA_PATH) -> list[dict]:
     path = Path(data_path)
     if not path.exists():
-        print(f"College data not found at {path!r}. Generating...")
+        log.info("College data not found at %r. Generating...", str(path))
         try:
             from data.generate_data import main as generate_data_main
             generate_data_main()
@@ -111,11 +114,11 @@ def ingest(data_path: str = DATA_PATH) -> int:
     Load college data, embed with Google Gemini model, store in ChromaDB.
     Idempotent — deletes and recreates the collection on every call.
     """
-    print("Loading college data …")
+    log.info("Loading college data …")
     colleges  = _load_colleges(data_path)
     documents = [_college_to_document(c) for c in colleges]
 
-    print(f"Embedding {len(documents)} colleges with {EMBED_MODEL} …")
+    log.info("Embedding %d colleges with %s …", len(documents), EMBED_MODEL)
     embeddings = HuggingFaceEmbeddings(
         model_name=EMBED_MODEL
     )
@@ -123,7 +126,7 @@ def ingest(data_path: str = DATA_PATH) -> int:
     client = chromadb.PersistentClient(path=CHROMA_PATH)
     try:
         client.delete_collection(COLLECTION_NAME)
-        print("Removed existing collection.")
+        log.info("Removed existing collection.")
     except Exception:
         pass
 
@@ -139,7 +142,7 @@ def ingest(data_path: str = DATA_PATH) -> int:
     hash_path.parent.mkdir(parents=True, exist_ok=True)
     hash_path.write_text(_get_file_hash(data_path))
 
-    print(f"✅  Ingested {len(documents)} documents into '{COLLECTION_NAME}'.")
+    log.info("Ingested %d documents into '%s'.", len(documents), COLLECTION_NAME)
     return len(documents)
 
 
@@ -155,19 +158,19 @@ def ensure_ingested(data_path: str = DATA_PATH) -> None:
         if collection.count() > 0 and hash_path.exists():
             stored_hash = hash_path.read_text().strip()
             if stored_hash == current_hash:
-                print(f"[ingest] {collection.count()} docs in '{COLLECTION_NAME}' (hash match) — skipping.")
+                log.info("%d docs in '%s' (hash match) — skipping.", collection.count(), COLLECTION_NAME)
                 return
             else:
-                print("[ingest] Hash mismatch — data file updated.")
+                log.info("Hash mismatch — data file updated.")
         elif collection.count() == 0:
-            print("[ingest] Collection empty.")
+            log.info("Collection empty.")
         else:
-            print("[ingest] Hash file missing.")
+            log.info("Hash file missing.")
             
     except Exception as e:
-        print(f"[ingest] Cache check failed: {e}")
+        log.warning("Cache check failed: %s", e)
     
-    print("[ingest] Starting/Updating ingest …")
+    log.info("Starting/Updating ingest …")
     ingest(data_path)
 
 
